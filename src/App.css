@@ -1,0 +1,11 @@
+.App .container {
+  /*display: flex;
+  justify-content: center;*/
+  gap: 0px;
+  flex-wrap: wrap;
+}
+
+/*.App {
+  text-align: center;  
+  color: aliceblue;
+}*/

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Sobre Mi",
+    "description": "Soy Ingeniero en Sistemas con una sólida experiencia de más de 10 años en el apasionante mundo del desarrollo de software. Mi carrera ha sido un viaje de aprendizaje constante y crecimiento profesional, marcado por mi dedicación a la calidad, atención a los detalles y capacidad analítica.",
+    "path": "/sobremi"
+  },
+  {
+    "title": "Experiencia",
+    "description": "Mi Experiencia",
+    "path": "/experiencia"
+  },
+  {
+    "title": "Proyecto",
+    "description": "Mis Proyectos",
+    "path": "/proyectos"
+  },
+  {
+    "title": "Contacto",
+    "description": "Mi Contacto",
+    "path": "/contacto"
+  },
+  {
+    "title": "Prueba",
+    "description": "Mi Prueba",
+    "path": "/prueba"
+  }
+]
